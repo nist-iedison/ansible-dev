@@ -1,5 +1,6 @@
 # ansible-dev
 Learn to track my code for ansible development.
+Training from 11/30/2020 to 12/04/2020
 
 The goal is to advertise to the world what the purpose of this repository is. 
 ## Getting Started
