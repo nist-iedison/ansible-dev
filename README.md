@@ -11,7 +11,7 @@ What things you need to install
 
 ## Build with
 
-* [Ansible](https://www.ansbile.com/) - An automation language built with Python
+* [Ansible](https://www.ansible.com/) - An automation language built with Python
 * [Python](https://www.python.org/) - Used to build Ansible
 
 ## Authors
